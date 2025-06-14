@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.env
+package-lock.json
+yarn.lock
+
+# Build artifacts
+dist/
+build/
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Sensitive data
+*.pem
+*.key
+*.cert
