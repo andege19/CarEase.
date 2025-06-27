@@ -30,3 +30,6 @@ Alvin Rodney Orina - (aorina915)
 
 Project Board
 [Click here to view GitHub Project Board](https://github.com/andege19/CarEase)
+```
+Technologies Used:
+Javascript
