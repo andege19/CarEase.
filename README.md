@@ -30,6 +30,8 @@ Alvin Rodney Orina - (aorina915)
 
 Project Board
 [Click here to view GitHub Project Board](https://github.com/andege19/CarEase.)
+
+Data Gathering Google Docs link:
 https://docs.google.com/forms/d/14pLpU-tV-NooywPylxsTyDyjCrxPeJx2Fbpk5KaZvpA/edit?pli=1#responses
 
 Code of Conduct
