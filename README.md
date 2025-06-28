@@ -32,5 +32,14 @@ Project Board
 [Click here to view GitHub Project Board](https://github.com/andege19/CarEase)
 https://docs.google.com/forms/d/e/1FAIpQLSdkbmHUS3R0FiJmYy8UZYQpCOH0mTYJHh0gSiPl9xG2bcXH-w/viewform?usp=headerss
 
-Technologies Used:
-Javascript
+Contributing to CarEase
+
+Thank you for considering contributing to our project! We welcome contributions from everyone. Please follow the guidelines below to ensure a smooth contribution process.
+
+Contribution Process
+
+1. Fork the Repository: Click the "Fork" button at the top right of the repository page to create your own copy of the repository.
+2. Clone Your Fork: Clone your forked repository to your local machine using:
+   ```bash
+   git clone https://github.com/your-username/[CarEasse].git
+
