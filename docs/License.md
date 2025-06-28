@@ -1,5 +1,4 @@
-
-### LICENSE
+LICENSE
 
 Copyright (c) [2025] [CarEase Detailing]
 
