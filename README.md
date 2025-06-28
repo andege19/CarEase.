@@ -29,7 +29,7 @@ Alvin Rodney Orina - (aorina915)
 | Week 12   | Deployment & Report Submission| Soon     |
 
 Project Board
-[Click here to view GitHub Project Board](https://github.com/andege19/CarEase)
+[Click here to view GitHub Project Board](https://github.com/andege19/CarEase.)
 https://docs.google.com/forms/d/14pLpU-tV-NooywPylxsTyDyjCrxPeJx2Fbpk5KaZvpA/edit?pli=1#responses
 
 Code of Conduct
