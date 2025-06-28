@@ -30,16 +30,33 @@ Alvin Rodney Orina - (aorina915)
 
 Project Board
 [Click here to view GitHub Project Board](https://github.com/andege19/CarEase)
-https://docs.google.com/forms/d/e/1FAIpQLSdkbmHUS3R0FiJmYy8UZYQpCOH0mTYJHh0gSiPl9xG2bcXH-w/viewform?usp=headerss
+https://docs.google.com/forms/d/14pLpU-tV-NooywPylxsTyDyjCrxPeJx2Fbpk5KaZvpA/edit?pli=1#responses
 
-Contributing to CarEase
+Code of Conduct
 
-Thank you for considering contributing to our project! We welcome contributions from everyone. Please follow the guidelines below to ensure a smooth contribution process.
+Our Pledge
 
-Contribution Process
+We as members, contributors, and leaders pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-1. Fork the Repository: Click the "Fork" button at the top right of the repository page to create your own copy of the repository.
-2. Clone Your Fork: Clone your forked repository to your local machine using:
-   ```bash
-   git clone https://github.com/your-username/[CarEasse].git
+Our Standards
+
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
+
+Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+
+Scope
+
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
+
+Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [rodneyalvin4@gmail.com]. All complaints will be reviewed and investigated promptly and fairly.
+
+
 
