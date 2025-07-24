@@ -14,7 +14,7 @@ Frontend cd src/frontend npm install npm start
 Backend cd src/backend npm install npm run dev
 
 Team Members:
-Rushil Bhudia - ()
+Rushil Bhudia - (rushilbhd)
 Alice. D. Ndege - (andege19)
 Nyalim Kuoth - (24-nyalim)
 Alvin Rodney Orina - (aorina915)
