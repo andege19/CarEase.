@@ -1,4 +1,4 @@
-Software Requirements Document (SRD) for CarEase Platform
+&nbsp;Software Requirements Document (SRD) for CarEase Platform
 Version 1.0
 
 SECTION 1: Introduction to Requirements Engineering
@@ -65,7 +65,7 @@ Investors focus on growth, ROI, and market differentiation.
 
 
 
-SECTION 3: Data Gathering & Market Research as Inputs to Requirements
+SECTION 3: Data Gathering \& Market Research as Inputs to Requirements
 
 Inputs
 The requirements are informed by extensive market research, data gathering, and analysis of industry trends, customer pain points, and competitor offerings.
@@ -117,6 +117,7 @@ SECTION 4: System Overview
 CarEase is a web-based platform designed to connect car owners with trusted service providers for washing, detailing, tinting, and maintenance. The system will have the following core modules:
 
 
+
 -Customer Portal:
 
 User registration and profile management
@@ -128,6 +129,7 @@ Real-time tracking of service provider arrival
 Secure online payment processing
 
 Ratings and reviews submission
+
 
 
 -Service Provider Portal:
@@ -143,6 +145,7 @@ Real-time navigation and status updates
 Earnings dashboard and payout management
 
 
+
 -Admin Dashboard:
 
 User and provider management
@@ -153,7 +156,7 @@ Analytics and reporting
 
 Compliance and quality control
 
--AI & IoT Integration:
+-AI \& IoT Integration:
 
 Diagnostics for predictive maintenance
 
@@ -177,7 +180,8 @@ Offline functionality.
 Insurance claim processing.  
 Advanced OBD diagnostics (beyond basic IoT).  
 Multi-currency support (initial release: KES only).  
-Voice command integration (e.g., Siri/Alexa).  
+Voice command integration (e.g., Siri/Alexa).
+
 
 
 Key Workflows:
@@ -186,6 +190,7 @@ Booking: User selects service → Chooses time/location → Receives upfront quo
 Service Execution: Technician tracked via GPS → AI diagnostics generate maintenance report.
 
 Payment: Secure transaction → Digital invoice → User rating.
+
 
 
 Architecture
@@ -242,6 +247,7 @@ Regulatory environment remains favorable to digital platforms and mobile payment
 Customers are willing to adopt cashless payment methods.
 
 
+
 Constraints
 
 Integration with third-party payment gateways (e.g., M-Pesa) may be subject to transaction fees and downtime.
@@ -253,6 +259,7 @@ Data privacy laws (e.g., Kenya Data Protection Act) must be strictly adhered to.
 Competition from emerging or established platforms may impact market share.
 
 Initial onboarding of service providers may require extensive verification and training.
+
 
 
 
@@ -277,7 +284,7 @@ SECTION 9: Functional Requirements Traceability Matrix
 Linked to GitHub Project Board: CarEase Functional Traceability
 Requirement ID	GitHub Issue #	Developer Assigned	Status		Test Case Ref	Verified
 FR-01		#1		@alice-dev		To Do		TC-01		No
-FR-02		#2		@all-dev			To Do		TC-02		No
+FR-02		#2		@all-dev		To Do		TC-02		No
 FR-03		#3		@rushil-dev		To Do		TC-03		No
 FR-04		#4		@alvin-dev		To Do		TC-04		No
 FR-05		#5		@rushil-dev		To Do		TC-05		No
@@ -288,8 +295,9 @@ FR-09		#9		@nyalim-dev		To Do		TC-09		No
 FR-10		#10		@nyalim-dev		To Do		TC-10		No
 
 
+
 10. Regulatory Compliance
-Data Protection (KDPA 2019):
+    Data Protection (KDPA 2019):
 
 Role-based access control (RBAC).
 
@@ -314,7 +322,7 @@ NEMA Waste Management Guidelines (2022).
 
 PCI-DSS v3.2.1 Security Standard.
 
-Green, P., & Patel, R. (2023). Digital Transformation in Automotive Services.
+Green, P., \& Patel, R. (2023). Digital Transformation in Automotive Services.
 
 KNBS Vehicle Ownership Report (2023).
 
@@ -329,5 +337,4 @@ STK Push: SIM ToolKit Push (M-Pesa payment method).
 
 Prepared By: Product Management Team
 Distribution: Developers, Stakeholders, Regulatory Auditors
-
 
